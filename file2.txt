@@ -1,0 +1,1 @@
+File named file2 is added to the featureBranch1 branch!
